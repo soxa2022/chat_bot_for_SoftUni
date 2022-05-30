@@ -1,0 +1,4 @@
+The list with possible questions:"Can you give me info for SoftUni`s program?" "Do you have information for the curriculum?"
+"How to apply?", "How will my training go?", "When will I start work?", "When will I graduate?","Can you inform me about C# Web developer?"
+"Can you inform me about Java Web developer?","Can you inform me about Python Web developer?", "Can you inform me about JavaScript developer?"
+"What do you know about C# Full-Stack?", "What do you know about Java Full-Stack?", "What do you know about Python Full-Stack?"
